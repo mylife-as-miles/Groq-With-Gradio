@@ -30,7 +30,7 @@ This project allows users to interact with a helpful assistant through a chat in
     * Open a terminal in the project directory and run:
 
         ```bash
-        python app.py
+        python main.py
         ```
 
     * This will launch the Gradio chat interface in your web browser.
