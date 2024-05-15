@@ -4,7 +4,7 @@ This repository contains code for a Gradio chat interface powered by Groq's Larg
 
 ###  Description
 
-This project allows users to interact with a helpful assistant through a chat interface. The assistant is built using Groq's LLM, specifically the `llama3-8b-8192` model, and provides short and informative responses to user queries.
+This project allows users to interact with a helpful assistant through a chat interface. The assistant is built using Groq's LLM, specifically the `llama3-70b-8192` model, and provides short and informative responses to user queries.
 
 ###  Getting Started
 
